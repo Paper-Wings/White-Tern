@@ -26,7 +26,10 @@ Laminated Paper Airplane of a High-Wing T-tail Racer
 * (optional) **Paperclips:** Used to balance the plane if needed
 
 ### Printing
-Place Parts and Tools using vector art program (Inkscape, Illustrator, CorelDRAW, etc)  If a larger or smaller model is wanted, scale all parts and tools equally
+Either:
+* Download the Release file ([Latest Release](https://github.com/Paper-Wings/White-Tern/releases/latest)) in the paper size you need OR
+* Place Parts and Tools using vector art program (Inkscape, Illustrator, CorelDRAW, etc)
+  * If a larger or smaller model is wanted, scale all parts and tools equally
 
 ### Cutting Out Parts
 Rought cut each piece, then trim each piece on the line.  Do not cut the main wing backing to size. 
