@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Aircraft_Parts" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="640.63px" height="141.73px" viewBox="0 0 640.63 141.73" enable-background="new 0 0 640.63 141.73"
+	 xml:space="preserve">
+<g id="_x38_">
+	<g>
+		<g>
+			<path fill="none" stroke="#010101" stroke-width="0.5" stroke-miterlimit="10" d="M320.315,0.67L16.872,0.526
+				C10.132,0.902,5.819,7.308,5.18,10.273C1.564,27.037,2.907,81.079,2.907,81.079s108.932,21.01,317.408,60.127"/>
+			<g>
+				<g>
+					<g>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="25.584" y1="57.085" x2="31.478" y2="58.209"/>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="11.1617,5.5808" x1="36.96" y1="59.254" x2="100.004" y2="71.273"/>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="102.745" y1="71.795" x2="108.639" y2="72.919"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="108.639" y1="81.423" x2="114.535" y2="82.536"/>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="12.4693,6.2346" x1="120.661" y1="83.693" x2="283.01" y2="114.351"/>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="286.073" y1="114.929" x2="291.969" y2="116.042"/>
+					</g>
+				</g>
+				
+					<line fill="none" stroke="#010101" stroke-width="0.5" stroke-miterlimit="10" x1="108.639" y1="101.267" x2="108.639" y2="72.919"/>
+				
+					<line fill="none" stroke="#010101" stroke-width="0.5" stroke-miterlimit="10" x1="25.584" y1="85.433" x2="25.584" y2="57.085"/>
+				
+					<line fill="none" stroke="#010101" stroke-width="0.5" stroke-miterlimit="10" x1="291.969" y1="116.042" x2="291.969" y2="135.884"/>
+			</g>
+		</g>
+		<g>
+			<path fill="none" stroke="#010101" stroke-width="0.5" stroke-miterlimit="10" d="M320.315,141.206
+				c208.477-39.117,317.408-60.127,317.408-60.127s1.342-54.042-2.273-70.806c-0.639-2.965-4.953-9.372-11.691-9.747L320.315,0.67"
+				/>
+			<g>
+				<g>
+					<g>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="615.045" y1="57.085" x2="609.151" y2="58.209"/>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="11.1615,5.5807" x1="603.669" y1="59.254" x2="540.626" y2="71.273"/>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="537.885" y1="71.795" x2="531.991" y2="72.919"/>
+					</g>
+				</g>
+				<g>
+					<g>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="531.991" y1="81.423" x2="526.096" y2="82.536"/>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" stroke-dasharray="12.4693,6.2346" x1="519.969" y1="83.693" x2="357.62" y2="114.351"/>
+						
+							<line fill="none" stroke="#939598" stroke-width="0.5" stroke-miterlimit="10" x1="354.557" y1="114.929" x2="348.661" y2="116.042"/>
+					</g>
+				</g>
+				
+					<line fill="none" stroke="#010101" stroke-width="0.5" stroke-miterlimit="10" x1="531.991" y1="101.267" x2="531.991" y2="72.919"/>
+				
+					<line fill="none" stroke="#010101" stroke-width="0.5" stroke-miterlimit="10" x1="615.045" y1="85.433" x2="615.045" y2="57.085"/>
+				
+					<line fill="none" stroke="#010101" stroke-width="0.5" stroke-miterlimit="10" x1="348.661" y1="116.042" x2="348.661" y2="135.884"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#010101" stroke-width="0.5" stroke-miterlimit="10" x1="320.315" y1="141.206" x2="320.315" y2="3.705"/>
+			<g>
+				<polygon fill="#010101" points="320.315,0.526 322.146,5.003 320.315,3.942 318.486,5.003 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
